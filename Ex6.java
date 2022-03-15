@@ -5,7 +5,7 @@ public class Ex6 {
         int ano = Integer.parseInt(
             JOptionPane.showInputDialog("Declare o ano:")
         );
-
+ 
         if ((ano % 4 == 0 && ano % 100 != 0) || ano % 400 == 0){
             System.out.println("ano bissexto");
         }

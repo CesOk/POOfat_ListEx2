@@ -5,7 +5,7 @@ public class Ex1{
         int num = Integer.parseInt(
             JOptionPane.showInputDialog("Declare o numero:")
         );
-
+ 
         if (num > 0){
             System.out.println("Positivo");
         }

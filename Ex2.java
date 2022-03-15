@@ -5,7 +5,7 @@ public class Ex2 {
         double delta;
         Scanner leitor =
             new Scanner (System.in);
-
+ 
         double a, b, c;
         System.out.println("Diga o primeiro coeficiente:");
         a = leitor.nextDouble();

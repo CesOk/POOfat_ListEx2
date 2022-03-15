@@ -4,7 +4,7 @@ public class Ex3 {
             new java.util.Scanner(System.in);
 
         double n1, n2, n3, maior;
-
+  
         System.out.println("Insira o primeiro numero:");
         n1 = leitor.nextDouble();
         maior = n1;

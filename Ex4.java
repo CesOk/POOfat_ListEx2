@@ -5,7 +5,7 @@ public class Ex4{
         int num = Integer.parseInt(
             JOptionPane.showInputDialog("Declare um numero entre 1 e 7:")
         );
-
+ 
         if (num == 1){
             System.out.println("segunda");
         }

@@ -5,7 +5,7 @@ public class Ex5{
         int num = Integer.parseInt(
             JOptionPane.showInputDialog("Declare um numero entre 1 e 12:")
         );
-
+ 
         if (num == 1){
             System.out.println("janeiro");
         }
